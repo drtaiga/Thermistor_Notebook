@@ -1,0 +1,6 @@
+watermark==2.1.0
+scipy==1.5.2
+ipywidgets==7.5.1
+matplotlib==3.3.2
+schemdraw==0.8
+numpy==1.19.2
